@@ -28,6 +28,7 @@ li{
     position: fixed;
     width: 100vw;
     background: none;
+    z-index: 10;
 }
 @media(max-width: 576px) {
     .navbar{
